@@ -1,5 +1,5 @@
 # PhoReg
-Field registration for photo notifications by email.
+**Field registration for photo notifications by email.**
 ## Overview
 Project consisting of several parts:
 1. DataSnap Server
